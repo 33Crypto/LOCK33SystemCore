@@ -1,3 +1,5 @@
+LOCK33 Development Organization's system core tool.
+
 platform-samples
 ================
 
